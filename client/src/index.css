@@ -1,0 +1,112 @@
+/* variable */
+:root {
+  --primary: #2874F0;
+  --primary-light: #393e46;
+  --secondary: #FB641B;
+  --background: #eeeeee;
+  --header-font: #fbd46d
+}
+
+/* reset */
+body {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+
+li {
+  list-style-type: none;
+}
+
+/* base style */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: var(--background);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  box-sizing: border-box;
+  min-height: 100vh;
+}
+
+.button {
+  background-color: var(--secondary);
+  padding: 0.6rem 0.8rem;
+  color: #ffffff;
+  border-radius: 0.4rem;
+  font-size: 0.6rem;
+  border: none;
+  display: inline-block;
+}
+
+
+/* font */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--primary-light);
+  font-weight: normal;
+  margin: 0;
+}
+
+.shopping-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/* mobile style */
+.checkoutBar {
+  background-color: var(--primary);
+}
+
+@media screen and (max-width:620px) {
+  .product-card {
+    width: 100%;
+  }
+}
+
+/* small tablet style */
+@media screen and (min-width:621px) {
+  body {
+    font-size: 16px;
+    margin: 0.6rem;
+    box-sizing: border-box;
+  }
+
+  .product-card {
+    width: 48%;
+    box-sizing: border-box;
+  }
+
+}
+
+/* large tablets & laptop style */
+@media screen and (min-width:960px) {
+  body {
+    font-size: 18px;
+    margin: 0.6rem;
+  }
+
+  .product-card {
+    width: 32%;
+  }
+
+}
+
+/* desktop style */
+@media screen and (min-width:1200px) {
+  body {
+    font-size: 20px;
+    margin: 0.8rem;
+    box-sizing: border-box;
+  }
+
+  .product-card {
+    max-width: 24%;
+  }
+}

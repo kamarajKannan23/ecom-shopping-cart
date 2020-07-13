@@ -1,0 +1,65 @@
+[{
+        "brandName": "Nestle",
+        "productName": "Milkmaid",
+        "quantity": "400 g",
+        "price": 150,
+        "Mrp": 138,
+        "imageUrl": "images/nestle-milkmaid-condensed-400",
+        "offerText": "8% Off"
+    },
+    {
+        "brandName": "Nandini",
+        "productName": "Good Life Toned Milk",
+        "quantity": "500 ml",
+        "price": 36,
+        "Mrp": 40,
+        "imageUrl": "images/nandini-toned-milk-500ml",
+        "offerText": "10% OFF"
+    },
+    {
+        "brandName": "Nandini",
+        "productName": "Good Life Gold Standard Milk",
+        "quantity": "1 l",
+        "price": 72,
+        "Mrp": 90,
+        "imageUrl": "images/nandini-tetrapack-standardized-1l",
+        "offerText": "20% OFF"
+    },
+    {
+        "brandName": "Mother Dairy",
+        "productName": "Mother Dairy Ghee",
+        "quantity": "1 l",
+        "price": "455",
+        "Mrp": 500,
+        "imageUrl": "images/mother-dairy-ghee-tetrapack-1l",
+        "offer": "9% OFF"
+    },
+    {
+        "brandName": "Hershey",
+        "productName": "Hershey’s Spreads Cocoa with Almond",
+        "Quantity": "350 g",
+        "price": 252,
+        "Mrp": 275,
+        "imageUrl": "images/hershey-cocoa-with-almond-spread-plastic-bottle-350g",
+        "offer": "8% OFF"
+    },
+    {
+        "brandName": "Hershey",
+        "productName": "Hershey’s Spreads Cocoa",
+        "Quantity": "350 g",
+        "price": 234,
+        "Mrp": 275,
+        "imageUrl": "images/hershey-cocoa-with-almond-spread-plastic-bottle-350g",
+        "offer": "14% OFF"
+    },
+    {
+        "brandName": "3 Roses",
+        "productName": "3 Roses Tea Box",
+        "Quantity": "500 g",
+        "price": 299,
+        "Mrp": "320",
+        "imageUrl": "hershey-cocoa-with-almond-spread-plastic-bottle-350g",
+        "offer": "6% OFF"
+    }
+
+]

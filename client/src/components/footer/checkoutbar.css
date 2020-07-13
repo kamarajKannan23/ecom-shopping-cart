@@ -1,0 +1,29 @@
+.checkoutBar {
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+    width: 100%;
+    height: 4rem;
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+}
+
+.checkoutBar-left-side {
+    grid-column: 1/4;
+    text-align: center;
+}
+
+.checkoutBar-left-side>h3 {
+    padding-top: 0.4rem;
+    font-size: 1rem;
+}
+
+.checkoutBar-right-side {
+    grid-column: 5/9;
+}
+
+.checkoutBar-right-side>button {
+    margin: 0.6rem 0.8rem;
+    font-size: 1rem;
+    padding: 0.8rem 2rem;
+}
