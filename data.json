@@ -1,0 +1,102 @@
+[{
+        "id": 1,
+        "brandName": "Nestle",
+        "productName": "Milkmaid",
+        "quantity": "400 g",
+        "price": 150,
+        "mrp": 138,
+        "imageUrl": "images/nestle-milkmaid-condensed-400.jpeg",
+        "offerText": "8% Off"
+    },
+    {
+        "id": 2,
+        "brandName": "Nandini",
+        "productName": "Good Life Toned Milk",
+        "quantity": "500 ml",
+        "price": 36,
+        "mrp": 40,
+        "imageUrl": "images/nandini-toned-milk-500ml.jpeg",
+        "offerText": "10% OFF"
+    },
+    {
+        "id": 3,
+        "brandName": "Nandini",
+        "productName": "Good Life Gold Standard Milk",
+        "quantity": "1 l",
+        "price": 72,
+        "mrp": 90,
+        "imageUrl": "images/nandini-tetrapack-standardized-1l.jpeg",
+        "offerText": "20% OFF"
+    },
+    {
+        "id": 4,
+        "brandName": "Mother Dairy",
+        "productName": "Mother Dairy Ghee",
+        "quantity": "1 l",
+        "price": "455",
+        "mrp": 500,
+        "imageUrl": "images/mother-dairy-ghee-tetrapack-1l.jpeg",
+        "offer": "9% OFF"
+    },
+    {
+        "id": 5,
+        "brandName": "Hershey",
+        "productName": "Hershey’s Spreads Cocoa with Almond",
+        "quantity": "350 g",
+        "price": 252,
+        "Mrp": 275,
+        "imageUrl": "images/hershey-cocoa-with-almond-spread-plastic-bottle-350g.jpeg",
+        "offer": "8% OFF"
+    },
+    {
+        "id": 6,
+        "brandName": "Hershey",
+        "productName": "Hershey’s Spreads Cocoa",
+        "quantity": "350 g",
+        "price": 234,
+        "mrp": 275,
+        "imageUrl": "images/hershey-cocoa-with-almond-spread-plastic-bottle-350g.jpeg",
+        "offer": "14% OFF"
+    },
+    {
+        "id": 7,
+        "brandName": "3 Roses",
+        "productName": "3 Roses Tea Box",
+        "quantity": "500 g",
+        "price": 299,
+        "mrp": "320",
+        "imageUrl": "images/three-roses-powder-regular-tea-100.jpeg",
+        "offer": "6% OFF"
+    },
+    {
+        "id": 8,
+        "brandName": "3 Roses",
+        "productName": "3 Roses Tea Box",
+        "quantity": "200 g",
+        "price": 199,
+        "mrp": "220",
+        "imageUrl": "images/three-roses-powder-regular-tea-100.jpeg",
+        "offer": "6% OFF"
+    },
+    {
+        "id": 9,
+        "brandName": "Amul",
+        "productName": "Amul Butter",
+        "quantity": "500 g",
+        "price": 223,
+        "mrp": 235,
+        "imageUrl": "images/amul-pasteurised-500.jpeg",
+        "offerText": "5% OFF"
+    },
+    {
+        "id": 10,
+        "brandName": "Amul",
+        "productName": "Amul Lassi",
+        "quantity": "250 ml",
+        "price": 19,
+        "mrp": 20,
+        "imageUrl": "images/amul-lassi-250.jpeg",
+        "offerText": "1 Rs OFF"
+    }
+
+]
