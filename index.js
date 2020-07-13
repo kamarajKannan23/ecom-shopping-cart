@@ -8,7 +8,12 @@ const data = require("./data.json");
 app.use(express.json());
 app.use(cors());
 
-console.log(process.env);
+// environment variables
+process.env.NODE_ENV = "development";
+
+// uncomment below line to test this code against staging environment
+// process.env.NODE_ENV = 'staging';
+
 const port = process.env.PORT || 8080;
 
 app.get("/api/data", (req, res) => {
