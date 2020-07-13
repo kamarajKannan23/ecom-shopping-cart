@@ -9,10 +9,10 @@ app.use(express.json());
 app.use(cors());
 
 // environment variables
-process.env.NODE_ENV = "development";
+//process.env.NODE_ENV = "development";
 
 // uncomment below line to test this code against staging environment
-// process.env.NODE_ENV = 'staging';
+process.env.NODE_ENV = "staging";
 
 const port = process.env.PORT || 8080;
 
